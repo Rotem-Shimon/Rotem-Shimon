@@ -14,16 +14,16 @@
 ---
 
 ### 📂 Projects
-*(More projects coming soon – stay tuned!)*  
-- **[Project Name]** – Short description of what it does (coming soon).  
+- **House Price Prediction (ML Project, 2025)** – Engineered a Python linear regression pipeline for forecasting residential house prices; data preprocessing, feature engineering & validation. [GitHub](https://github.com/Rotem-Shimon/house-prices-prediction)  
+- **2048 Game (Personal Project, 2025)** – Enhanced console-based C implementation of 2048 with color-coded UI, leaderboard and in-place board refresh. [GitHub](https://github.com/Rotem-Shimon/2048-game)  
 
 ---
 
 ### 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/rotem-shimon/)  
 - [Email](mailto:rotem11shimon@gmail.com)  
-- [Download CV](https://github.com/Rotem-Shimon/Rotem-Shimon/blob/main/RotemShimonCV.pdf) 
+- [Download CV](https://github.com/Rotem-Shimon/Rotem-Shimon/blob/main/resume.pdf)  
 
 ---
 
-*"Code. Learn. Improve. Repeat."*
+*"Code. Learn. Improve. Repeat."*  
