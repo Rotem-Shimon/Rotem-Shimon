@@ -14,10 +14,14 @@
 ---
 
 ### 📂 Projects
-- **House Price Prediction (ML Project, 2025)** – Engineered a Python linear regression pipeline for forecasting residential house prices; data preprocessing, feature engineering & validation. [GitHub](https://github.com/Rotem-Shimon/house-prices-prediction)  
-- **2048 Game (Personal Project, 2025)** – Enhanced console-based C implementation of 2048 with color-coded UI, leaderboard and in-place board refresh. [GitHub](https://github.com/Rotem-Shimon/2048-game)  
-- **MovieLens SQL Analytics (2025)** – Designed and implemented a PostgreSQL database for the MovieLens dataset, including ETL pipelines (Python + SQLAlchemy), advanced SQL queries, and visualization of insights with Pandas/Matplotlib. Delivered CSV exports and professional dashboards for business-style analysis. [GitHub](https://github.com/Rotem-Shimon/movielens-sql-analytics)  
-- **PulseOps — NOC Demo (2025)** – Built a monitoring stack with Docker, OpenSearch, Dashboards, and a Python collector simulating incident patterns. Showcased real-time telemetry streaming, anomaly detection, and NOC-ready dashboards. [GitHub](https://github.com/Rotem-Shimon/pulseops)  
+- **House Price Prediction (ML, 2025)** – Python linear regression pipeline for house price forecasting (preprocessing, features, validation). [GitHub](https://github.com/Rotem-Shimon/house-prices-prediction)  
+
+- **2048 Game (C, 2025)** – Console-based 2048 with color-coded UI, leaderboard & in-place refresh. [GitHub](https://github.com/Rotem-Shimon/2048-game)  
+
+- **MovieLens SQL Analytics (SQL/Python, 2025)** – PostgreSQL DB design + ETL (SQLAlchemy), advanced queries & insights visualization. [GitHub](https://github.com/Rotem-Shimon/movielens-sql-analytics)  
+
+- **PulseOps NOC Demo (Docker/OpenSearch, 2025)** – Monitoring stack with real-time telemetry, anomaly simulation & dashboards. [GitHub](https://github.com/Rotem-Shimon/pulseops)  
+
 
 ---
 
